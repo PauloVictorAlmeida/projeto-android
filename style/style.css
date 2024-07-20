@@ -110,7 +110,7 @@ main a{
     font-weight: bold;
     color: var(--cor5);
     background-color: var(--cor1);
-    padding: 2px 3px;
+    padding: 2px 1px;
 }
 
 main h1{
